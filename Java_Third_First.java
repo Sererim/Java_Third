@@ -47,8 +47,8 @@ public class Java_Third_First{
             System.out.println(nums);
             Java_Third_First.find_and_delete_even();
             System.out.println(nums);
-            System.out.println("Do you want to terminate the program y/Y ?");
             
+            System.out.println("Do you want to terminate the program y/Y ?");
             foo = scan.next();
             if(foo.equals("y") || foo.equals("Y"))
                 break;
